@@ -4,7 +4,8 @@
 ### AI-Driven DevSecOps Engineer in Progress 🚀
 
 *"Security is not a product, it's a process — and I'm here to build that process."*
-[![LinkedIn](https://github.com/saadjanjua39/saadjanjua39/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ayub-780909317/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadjanjua39)
 
 </div>
