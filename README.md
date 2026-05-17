@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hey, I'm Saad Janjua 👋
+# Hey, I'm Saad Ayub 👋
 ### AI-Driven DevSecOps Engineer in Progress 🚀
 
 *"Security is not a product, it's a process — and I'm here to build that process."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadjanjua39)
+[![LinkedIn](https://www.linkedin.com/in/saad-ayub-780909317/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saadjanjua39)
 
 </div>
@@ -16,7 +16,6 @@
 
 - 🎓 BS Computer Science — University of Haripur (3rd Year)
 - 🔐 Specializing in **AI-Driven DevSecOps**
-- 🌍 Targeting global opportunities — Pakistan 🇵🇰 | Saudi Arabia 🇸🇦 | Germany 🇩🇪
 - 🌱 Currently Learning: **Linux & Shell Scripting**
 - 📂 Actively building real-world DevSecOps projects
 - 🤝 Open to internships, remote collaborations & learning opportunities
